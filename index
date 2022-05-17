@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+<title> FINTERRA </title>
+</head>
+<body>
+<!--main-->
+<div class="main">
+<!--main-content-->
+    <div
+         class="main-content"> 
+    <!--about-->
+        <div class="about">
+        <p class="about2">Успішний бізнес можна побудувати тільки в одному випадку - робити це з душею
+        </p>
+        <p> Річард Бренсон</p>
+        <h1 class="Finterra">Finterra </h1>
+        </div>
+        <div>
+        <h2 class="about1">Ваш надійний помічник у сфері фінансів та обліку</h2> </div>
+        <!--Services-->
+        <div class="services">
+            <h3 class="title"> Наші послуги:</h3>
+            <ol class="list">
+            <li class="title-item">
+            <span class="serv">Фінансова модель вашого бізнесу</span>
+            <p class="serv2"> <span class="brackets">[</span>Як заробляти більше? Розрахунки revenue, expenses, net income, tax<span class="brackets">]</span>:
+            <p><a href="https://finterra.com.ua/companies.html/" class="project-link">https://finterra.com.ua/companies.html</a>
+            </p>
+            </li>
+            
+            <li class="title-item">
+            <span class="serv">Впровадження обліку та звітності</span>
+            <p class="serv2"> <span class="brackets">[</span>Звіт Dashbord для керівника <span class="brackets">]</span>:
+            <p> <a href="https://finterra.com.ua/ent/" class="project-link">https://finterra.com.ua/ent</a>
+            </p>
+           </li>
+            <li class="title-item">
+            <span class="serv">Консультації, навчення, майстеркласи</span>
+            <p class="serv2"><span class="brackets">[</span>Звертайтесь ви зможете глибше дізнатись про сферу фінансів та застосувати її у своїй діяльності<span class="brackets">]</span>:
+            <p><a href="https://finterra.com.ua/consultancy.html/" class="project-link" >https://finterra.com.ua/consultancy.html</a>
+            </p>
+            </li>
+            </ol>
+        </div>
+        <!--Clients-->
+        <div class="clients">
+        <h3 class="title">  Наші кейси:</h3> </div>
+        <!--Client1-->
+        <div>
+        <h4 class="client-name">KVANT</h4>    
+        <p> <span class="client-s">Coworking & edu-space</span></p>
+        <p class="period"> 2020 <span class="slash">/</span>Ukraine</p>
+        <ul class="clients-list">
+        <li class="clientlist-item">Спрогнозована потенційна аудиторія</li>
+        <li class="clientlist-item">Розраховані витрати відповідно до площі коворкінгу</li>
+        <li class="clientlist-item">Прорахована цільова норма прибутку</li>
+        <li class="clientlist-item">Надані поради щодо запровадження обліку</li>
+        </ul>    </div>
+        <!--Client2-->
+        <div> 
+        <h4 class="client-name">QR smart</h4>
+        <p> <span class="client-s">Smart & quick inventarization</span></p>
+        <p class="period"> 2021 <span class="slash">/</span>Ukraine</p>
+        <ul class="clients-list">
+        <li class="clientlist-item">Змодельований SAAS-підхід на локальному та міжнародному ринку</li>
+        <li class="clientlist-item">Розраховані змінні та постійні витрати</li>
+        <li class="clientlist-item">Прорахована потреба у інвестиціях, фінануванні</li>
+        <li class="clientlist-item">IRR, ARR, NCF, ROI etc. </li>
+        </ul>    </div>
+        <!--Client3-->
+        <div>
+        <h4 class="client-name">Lirene Ukraine</h4>
+        <p> <span class="client-s">Cosmetics & beauty</span></p>
+        <p class="period"> 2022 <span class="slash">/</span>Poland</p>
+        <ul class="clients-list">
+        <li class="clientlist-item">Повна підтримка компанії у всіх фінансових питаннях</li>
+        <li class="clientlist-item">Звітність для керівництва та власників: P&L, Balance, CF</li>
+        <li class="clientlist-item">Проходження річного аудиту</li>
+        <li class="clientlist-item">Стратегічний план розвитку на 1-3 роки</li>
+        </ul> </div>
+        <!--Client4-->
+        <div>
+            <h4 class="client-name">Smart Rain</h4>
+            <p> <span class="client-s">Agro & machinery</span></p>
+            <p class="period"> 2021 <span class="slash">/</span>Ukraine</p>
+            <ul class="clients-list">
+                <li class="clientlist-item">Запроваджено управлінський облік та звітність для групи компаній</li>
+                <li class="clientlist-item">Розроблена облікова політика з деталізацією щодо відображення господарських операцій</li>
+                <li class="clientlist-item">Впроваджено нове програмне забезпечення BAS (міграція з 1С)</li>
+            </ul>
+        </div>
+        <!--Client5-->
+        <div>
+           <h4 class="client-name">Sedlex Group</h4>
+            <p> <span class="client-s">Tailoring & production</span></p>
+            <p class="period"> 2021 <span class="slash">/</span>Ukraine</p>
+            <ul class="clients-list">
+                <li class="clientlist-item">Прорахований фінансовий результат діяльності</li>
+                <li class="clientlist-item">Розроблено шаблон управлінської звітності з поясненнями</li>
+                <li class="clientlist-item">Проведено тренінг для бухгалтерії по проведенню госп.операцій відповідно до формату управлінської звітності</li>
+    </ul>
+</div>      
+    </div>
+
+<!--Sidebar-->
+<div>
+<aside class="sidebar">
+  <img src="img/myfoto.jpg" alt="user photo" class="photo">
+
+<!--Experiense-->
+<div class="experiense">
+    <h3 class="sidebar-title">Наш досвід</h3>
+    <ul class="advantages-list">
+        <li class="advantages-items"> <span class="advantages-text">15+ років в ТОП-менеджменті межнародних та системних компаній</span> </li>
+        <li class="advantages-items"> <span class="advantages-text">10+ років досвіду в оптимізації бізнесу та кризовому управлінні</span> </li>
+        <li class="advantages-items"> <span class="advantages-text">30+ працюючих бізнес-моделей</span> </li>
+        <li class="advantages-items"> <span class="advantages-text">10+ реалізованих проектів з відновленню обліку та звітності, запровадженню обліку з нуля</span> </li>
+        <li class="advantages-items"> <span class="advantages-text">Наставництво, розвиток лідерських навичок та командної роботи в колективі, управління конфліктами </span></li>
+    </ul>
+</div>
+  <!--Advantages-->
+<div class="advantages">
+    <h3 class="sidebar-title">Наші переваги</h3>
+    <ul class="advantages-list" >
+    <li class="advantages-items"> <span class="advantages-text">Професійний підхід</span> </li>
+    <li class="advantages-items"> <span class="advantages-text">Точність та та достовірність даних</span> </li>
+    <li class="advantages-items"> <span class="advantages-text">Своєчасність та відповідність дед-лайнам</span> </li>
+    <li class="advantages-items"> <span class="advantages-text">Постійна підримка та консультації по всім фінансовим питанням</span> </li>
+    </ul>
+</div>
+<!--Cooperation-->
+<div class="cooperation">
+    <h3 class="sidebar-title">Співпраця з нами</h3>
+    <ul class="advantages-list">
+        <li class="advantages-items"> <span class="advantages-text">Зателефонуйте нам або залиште заявку - ми з Вами зв'яжемося</span> </li>
+        <li class="advantages-items"> <span class="advantages-text">Обговорюємо Ваш запит: визначаємо результат, формуємо етапи робіт, вступні дані, ресурси, строки, цінову пропозицію</span> </li>
+        <li  class="advantages-items"> <span class="advantages-text">Складаємо та підписуємо договір, Замовник вносить передоплату</span> </li>
+        <li  class="advantages-items"> <span class="advantages-text">Безпосередня співпраця, обговорення результатів, презентація напрацьованого матеріалу та алгориму подальших дій</span> </li>
+    </ul>
+</div>
+<!--Contact-->
+<div class="contacts" >
+    <h3 class="sidebar-title">Наші контакти</h3>
+    <div>
+        <p>
+        <span class="contact-type">Телефон:</span>
+         <a href="tel:+380672899005">+380672899005</a>
+        </p>
+        <p>
+        <span class="contact-type">E-майл:</span>
+        <a href="mailto:finterra.com.ua@gmail.com">finterra.com.ua@gmail.com</a>
+        </p>
+    </div>
+</div>
+
+</aside>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
